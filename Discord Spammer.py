@@ -1,6 +1,6 @@
 '''
-Made by Icarus
-Discord Icarus#6179
+Made by maybe
+Discord Maybe#1337
 '''
 import time
 import keyboard
