@@ -1,6 +1,6 @@
 # Discord-Spammer
 A useless Discord spammer to anger the skids
 
-Made by Icarus#6179
+Made by Maybe#1337
 
 join this discord; https://discord.gg/fJHgNT5
